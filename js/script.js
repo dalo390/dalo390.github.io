@@ -13,4 +13,6 @@ $(document).ready(function() {
 		startDelay: 1000,
 		showCursor: false
 	});
+
+	$("[data-fancybox]").fancybox();
 });
