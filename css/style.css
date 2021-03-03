@@ -88,12 +88,7 @@ body{
 	color: #7ed6df;
 	background-color: #fff;
 }
-/*
-.filter{
-	text-align: center;
-	width:100%;
-}
-*/
+
 .section .heading{
 	text-align: center;
 	padding-bottom: 40px;
@@ -204,4 +199,14 @@ body{
 
 .items{
 	padding: 0;
+}
+
+.copyrightSection{
+	background-color: #000;
+	color: #fff;
+	padding: 30px 5px;
+}
+
+.copyrightSection p{
+	margin: 0;
 }
