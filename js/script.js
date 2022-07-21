@@ -44,4 +44,5 @@ $(document).ready(function() {
 			body.removeClass("fixedNav");
 		}
 	}
+
 });
