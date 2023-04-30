@@ -69,7 +69,7 @@ body{
 }
 
 .contactSection{
-	background-color: #7ed6df;
+	background-color: #81bed7;
 	color: #fff;
 }
 
@@ -85,7 +85,7 @@ body{
 
 .contactButton:hover{
 	text-decoration: none;
-	color: #7ed6df;
+	color: #6aa2b8;
 	background-color: #fff;
 }
 
@@ -140,7 +140,7 @@ body{
 .items .icons a{
 	width: 40px;
 	height: 40px;
-	background-color: #7ed6df;
+	background-color: #81bed7;
 	position: relative;
 	display: inline-block;
 
@@ -212,7 +212,7 @@ body{
 }
 
 #navigation{
-	background-color: #7ed6df;
+	background-color: #81bed7;
 	padding: 20px 10px;
 	z-index: 100;
 	width: 100%;
